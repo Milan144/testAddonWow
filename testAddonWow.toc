@@ -1,0 +1,7 @@
+## Interface: 100007
+## Title: Level Up Music
+## Notes: Joue une musique et affiche le temps passé avant de level up
+## Author: Milan144
+## Version: 1.0
+
+testAddonWow.lua
