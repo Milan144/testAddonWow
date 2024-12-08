@@ -4,4 +4,4 @@
 ## Author: Milan144
 ## Version: 1.0
 
-testAddonWow.lua
+testAddonWoW.lua
